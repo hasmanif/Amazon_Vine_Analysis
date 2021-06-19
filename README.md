@@ -7,8 +7,8 @@ The purpose of the Amazon Vine analysis is to analyze Amazon review wirtten by m
 
 ## Results
 
-![Paid](paid_reviews.png)
-![Unpaid](unpaid_reviews.png)
+![Paid](images/paid_reviews.png)
+![Unpaid](images/unpaid_reviews.png)
 
 
 ### Summary
